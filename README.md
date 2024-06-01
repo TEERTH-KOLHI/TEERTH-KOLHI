@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/teerth-kolhi" target="https://www.linkedin.com/in/teerth-kolhi/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/teerth-kolhi" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/www.linkedin.com/in/teerth-kolhi](https://www.linkedin.com/in/teerth-kolhi/)" target="https://www.linkedin.com/in/teerth-kolhi/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/teerth-kolhi" height="30" width="40" /></a>
 <a href="https://medium.com/@teerth_kolhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@teerth_kolhi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/teerth_kolhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/teerth_kolhi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/teerth_kolhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/teerth_kolhi" height="30" width="40" /></a>
