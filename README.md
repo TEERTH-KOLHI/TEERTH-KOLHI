@@ -13,10 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/teerth-kolhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/teerth-kolhi" height="30" width="40" /></a>
-<a href="https://medium.com/@teerth_kolhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@teerth_kolhi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/teerth_kolhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/teerth_kolhi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/teerth_kolhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/teerth_kolhi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/teerth_kolhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/teerth_kolhi/" height="30" width="40" /></a>
+<a href="https://medium.com/@Teerth_kolhi" target="https://medium.com/@Teerth_kolhi"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@teerth_kolhi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/teerth_kolhi" target="https://www.hackerrank.com/profile/teerth_kolhi"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/teerth_kolhi" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Teerth_Kolhi" target="https://codeforces.com/profile/Teerth_Kolhi"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/teerth_kolhi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/TEERTH_KOLHI/" target="https://leetcode.com/u/TEERTH_KOLHI/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/teerth_kolhi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
