@@ -1,4 +1,4 @@
-![logo](https://github.com/TEERTH-KOLHI/TEERTH-KOLHI/blob/main/github-banner.png)
+![logo](https://github.com/TEERTH-KOLHI/TEERTH-KOLHI/blob/main/github-banner-teerth.png)
 <h1 align="center">Hi 👋, I'm Teerth Kolhi</h1>
 <h3 align="center">A passionate Software Engineer & Full Stack Developer</h3>
 
