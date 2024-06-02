@@ -26,7 +26,7 @@
 
 
 <pre>                      <strong>LeetCode Profile                                                           HackerRank Profile</strong></pre>
-![Leetcode Stats](https://leetcard.jacoblin.cool/TEERTH_KOLHI?theme=nord) <a href="https://www.hackerrank.com/teerth_kolhi"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400" height = "200" align="right"></a>
+![Leetcode Stats](https://leetcard.jacoblin.cool/TEERTH_KOLHI?theme=nord) <a href="https://www.hackerrank.com/teerth_kolhi"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="300" height = "200" align="right"></a>
 
 
 
